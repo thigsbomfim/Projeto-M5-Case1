@@ -1,9 +1,5 @@
 # Projeto-M5-Case1
 
-# Projeto individual Módulo 5
-
-
-
 # [ API ] Academia
 ### 📑 Descrição
 Desenvolvimento da <em>**API REST**</em> no **padrão MVC** que retorna informações das entidades de uma academia e efetua todas as operações **CRUD**: ``Clientes``, ``Produtos``, ``Atividades``, ``Franquias``.
